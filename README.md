@@ -40,11 +40,15 @@ This is a basic calculator application implemented in **JAC language**, showcasi
 | + divide()        |
 +-------------------+
 
+---
+
 ## 📂 Project Structure
 simple-calculator-jac/
 │
 ├── oopcalculator.jac      # Main source code
 ├── README.md           # Project documentation
+
+---
 
 ##🚀 How to Run
 
@@ -57,6 +61,8 @@ Run the calculator using:
 
 jac run calculator.jac
 
+---
+
 ##📘 Concepts Demonstrated
 
 -Classes & Objects: Used to encapsulate calculator logic
@@ -65,10 +71,14 @@ jac run calculator.jac
 
 -Reusability: The Calculator class can be reused in other programs
 
+---
+
 ##📄 License
 
 This project is open-source and free to use under the MIT License
 .
+
+---
 
 ##🙋‍♂️ Author
 
