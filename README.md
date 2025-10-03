@@ -39,6 +39,7 @@ This is a basic calculator application implemented in **JAC language**, showcasi
 | + multiply()      |
 | + divide()        |
 +-------------------+
+```
 
 ---
 
