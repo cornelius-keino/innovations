@@ -44,14 +44,15 @@ This is a basic calculator application implemented in **JAC language**, showcasi
 ---
 
 ## 📂 Project Structure
+```plaintext
 simple-calculator-jac/
 │
 ├── oopcalculator.jac      # Main source code
 ├── README.md           # Project documentation
-
+```
 ---
 
-##🚀 How to Run
+## 🚀 How to Run
 
 Install the JAC compiler:
 👉 JAC Getting Started Guide
@@ -59,12 +60,12 @@ Install the JAC compiler:
 Clone the repository or download the .jac file.
 
 Run the calculator using:
-
+```plaintext
 jac run calculator.jac
-
+```
 ---
 
-##📘 Concepts Demonstrated
+## 📘 Concepts Demonstrated
 
 -Classes & Objects: Used to encapsulate calculator logic
 
@@ -74,14 +75,13 @@ jac run calculator.jac
 
 ---
 
-##📄 License
+## 📄 License
 
-This project is open-source and free to use under the MIT License
-.
+This project is open-source and free to use under the MIT License.
 
 ---
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Cornelius Keino
 GitHub: @cornelius-keino
